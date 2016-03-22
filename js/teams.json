@@ -1,0 +1,19 @@
+{
+    "teams": [
+        {
+            "name": "Twins",
+            "image": "Images/twins.jpg",
+            "players": ["Kirby Pucket","Kent Hrbek","Harmon Killebrew","Bert Blyleven"]
+        },
+        {
+            "name": "Vikings",
+            "image": "Images/vikings.png",
+            "players": ["Cris Carter","Fran Tarkenton","Adrian Peterson","Randy Moss"]
+        },
+        {
+            "name": "TimberWolves",
+            "image": "Images/wolves.jpg",
+            "players": ["Kevin Garnett","Fred Hoiberg","Wally Szczerbiak","Andrew Wiggins"]
+        }
+    ]
+}
