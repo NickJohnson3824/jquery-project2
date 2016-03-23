@@ -21,6 +21,10 @@ ul {
     text-align: left;
     margin-left: 45.5%;
 }
-img, h3, ul {
+img, .players {
     display: none;
+
+}
+img {
+        box-shadow: .5em .5em .1em grey;
 }

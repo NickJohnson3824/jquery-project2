@@ -3,7 +3,7 @@
         {
             "name": "Twins",
             "image": "Images/twins.jpg",
-            "players": ["Kirby Pucket","Kent Hrbek","Harmon Killebrew","Bert Blyleven"]
+            "players": ["Kirby Pucket","Kent Hrbek","Harmon Killebrew","Bert Blyleven", "Jack Morris"]
         },
         {
             "name": "Vikings",
@@ -13,7 +13,7 @@
         {
             "name": "TimberWolves",
             "image": "Images/wolves.jpg",
-            "players": ["Kevin Garnett","Fred Hoiberg","Wally Szczerbiak","Andrew Wiggins"]
+            "players": ["Kevin Garnett","Fred Hoiberg","Wally Szczerbiak"]
         }
     ]
 }
